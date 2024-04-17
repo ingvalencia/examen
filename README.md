@@ -1,4 +1,5 @@
-#Registro de País y Estado
+##Registro de País y Estado
+
 Este proyecto es una aplicación web para el registro de países y sus respectivos estados. Permite agregar, editar y eliminar países y estados utilizando una API RESTful en el backend y una interfaz de usuario construida con React en el frontend.
 
 ## Funcionalidades
